@@ -1,0 +1,8 @@
+= Six real cars
+:toc:
+:toc-placement: preamble
+:sectanchors:
+
+A small dataset that illustrates the XMCDA file format. See the Decision Deck http://www.decision-deck.org/xmcda[website].
+
+
